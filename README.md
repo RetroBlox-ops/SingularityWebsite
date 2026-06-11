@@ -1,2 +1,1 @@
-
-hi there i like kids
+hey open source version of singularity's website
